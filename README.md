@@ -1,26 +1,24 @@
 
 <p >
   <h2>👋 Hey there</h2>
-  <img src="https://komarev.com/ghpvc/?username=MohamedMedhat21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   
   <a href="https://www.linkedin.com/in/mohamedmmedhat/"><img align="left" alt="medhat's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
   <a href="mailto:mohamedmmedhat21@gmail.com">
   <img align="left" alt="medhat's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
-</a>
+  </a>
 
 
 <a href="https://hashnode.com/@mohamedmedhat">
   <img align="left" alt="medhat's hashnode" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj86-LC7fAA-ib9z9QKaspSK6pHEv1JVrvQBipcf52fg&s" draggable="false" />
 </a>
 
-
 <a href="https://medium.com/@mohamedmmedhat21">
   <img align="left" alt="medhat's medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" draggable="false" />
 </a>
-  
-</p>
-<br>
 
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=MohamedMedhat21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
