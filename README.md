@@ -1,8 +1,8 @@
 
-<h2>
-  👋 <span style="color:#42B883">Hey there</span>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=42B883&lines=👋+Hey+there+:)" />
   <img src="https://komarev.com/ghpvc/?username=MohamedMedhat21&label=Profile%20views&color=0e75b6&style=flat" align="right" />
-</h2>
+</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/mohamedmmedhat/">
